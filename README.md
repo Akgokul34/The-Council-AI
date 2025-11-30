@@ -202,6 +202,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built with [Google AI Development Kit](https://github.com/google/adk)
 - Powered by [Gemini API](https://ai.google.dev/)
-- Part of the [Kaggle AI Agents Intensive Course](https://www.kaggle.com/)
 
 ---
