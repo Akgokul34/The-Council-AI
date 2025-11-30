@@ -205,14 +205,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Part of the [Kaggle AI Agents Intensive Course](https://www.kaggle.com/)
 
 ---
-
-## 📧 Contact
-
-**[Your Name]**  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-<p align="center">Made with ❤️ for the AI Agents Intensive Capstone Project</p>
