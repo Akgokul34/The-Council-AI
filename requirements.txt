@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+networkx
+matplotlib
+python-dotenv
+google-genai
+google-adk
